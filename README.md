@@ -26,3 +26,9 @@ Finally, run the following command to start the program.
 ```bash
 npm run start
 ```
+
+To run any of the demo files:
+
+```bash
+npx tsx path/to/demo.ts
+```
